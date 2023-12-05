@@ -1,5 +1,4 @@
 import fs from 'fs';
-import { parse } from 'url';
 
 const Solve = (filePath = 'input') => {
   let firstSum = 0, secondSum = 0;
