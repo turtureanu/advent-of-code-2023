@@ -38,7 +38,7 @@ const Solve = (filePath = 'input') => {
       }
     });
 
-    console.log(`Solution: ${sum}`);
+    console.log(`Part 1: ${sum}`);
   });
 };
 
